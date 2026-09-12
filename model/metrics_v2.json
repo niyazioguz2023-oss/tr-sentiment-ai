@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.92325,
+  "macro_f1": 0.8766480306076755,
+  "n_train": 60000,
+  "n_test": 8000,
+  "dataset": "winvoker/turkish-sentiment-analysis-dataset"
+}
