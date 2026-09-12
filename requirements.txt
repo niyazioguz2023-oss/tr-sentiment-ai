@@ -1,0 +1,3 @@
+scikit-learn
+huggingface_hub
+pytest

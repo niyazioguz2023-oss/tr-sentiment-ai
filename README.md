@@ -1,0 +1,1 @@
+# tr-sentiment-ai\n\nTurkce kucuk veri duygu analizi (sklearn TF-IDF + LogisticRegression).\n\nCalistir:\n```\nuv venv\nuv pip install -r requirements.txt\n.venv/Scripts/python train.py\n.venv/Scripts/python predict.py "Bu film harikaydi"\n```\n
